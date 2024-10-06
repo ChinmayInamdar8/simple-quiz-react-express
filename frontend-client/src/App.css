@@ -1,0 +1,34 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container{
+  border: 2px solid #023047;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 6px 6px 18px black;
+}
+
+.inner{
+  width: 90vh;
+  padding: 7px;
+}
+
+.inner input{
+  width: 70vh;
+  height: 5vh;
+  border: none;
+  background-color: transparent;
+  border-bottom: 2px solid #023047;
+  color: #023047;
+  font-size: 20px;
+}
+
+input:focus {
+  outline: none;
+}
+

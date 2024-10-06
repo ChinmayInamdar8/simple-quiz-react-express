@@ -1,0 +1,34 @@
+[
+    {
+        "question": "what is react ? ",
+        "option1": "frontend library",
+        "option2": "backend library",
+        "option3": "used for both",
+        "option4": "none of the above",
+        "ansswer": 1
+    },
+    {
+        "question": "what is not part of oop ? ",
+        "option1": "Inheritance",
+        "option2": "overriding",
+        "option3": "overloading",
+        "option4": "abstraction",
+        "ansswer": 3
+    },
+    {
+        "question": "what is this number 4 ?",
+        "option1": "one",
+        "option2": "two",
+        "option3": "four",
+        "option4": "three",
+        "ansswer": 3
+    },
+    {
+        "question": "what is the shape of circle ?",
+        "option1": "square",
+        "option2": "round",
+        "option3": "triangle",
+        "option4": "none of the above",
+        "ansswer": 2
+    }
+]
